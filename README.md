@@ -1,10 +1,12 @@
 RKVR-Rajawali
 ================
 
-This repository is the library with sample app showing how to run a high performance VR game on Rockchip VR platforms. The 3d engine is using Rajawali.
+This repository is the library with sample app showing how to run a high performance VR app on Rockchip VR platforms. The 3d engine is using Rajawali.
 
 ##Device
 IMPORTANT info: The VR App could only runs on Rockchip VR Platform, which have AP RK3288/RK3399 inside and powerd by lots of GDCV's optimization.
+
+Update: Now if you choose vr-debug.aar the app could runs on normal mobile phones, without any performance optimization. Only for debug.
 
 ##Library
 
